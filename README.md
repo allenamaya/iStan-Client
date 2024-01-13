@@ -1,7 +1,8 @@
-![logo](https://github.com/Ian32-del/blogpost/assets/126647363/f409943c-717b-4f36-ae9d-d766b9ae634a)
+![Group 2](https://github.com/allenamaya/iStan-Client/assets/126647363/dea30121-ba23-4741-9df7-975e895bf5b5)
 
 
 # iStan Blog Platform
+
 
 **iStan** is a full-stack web application built with Python on the backend and React on the frontend, designed to provide users with a seamless and interactive blogging experience. Whether you're a seasoned blogger or just starting out, iStan offers an easy-to-use platform for sharing your thoughts, stories, and insights.
 
