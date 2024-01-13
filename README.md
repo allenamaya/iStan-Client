@@ -69,7 +69,9 @@ If you'd like to contribute to iStan, please follow our Contribution Guidelines.
 This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
+## Acknowledgments
 
-- Special thanks to [@username1](https://github.com/username1) for their contributions.
-- Hat tip to [@username2](https://github.com/username2) for their valuable insights.
+- Special thanks to [@Ian32-del](https://github.com/Ian32-del) for their contributions.
+- Hat tip to [@allenamaya](https://github.com/allenamaya) for their valuable insights.
+
 
