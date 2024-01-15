@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,700;1,500&family=Varela&family=Varela+Round&display=swap');
+body {
+  background-color:#e2e0e0;
+  font: 'Poppins', 'Sans-serif';
+  
+}
+
+
+.app-logo{
+  display: flex;
+  padding-left: 34rem;
+  padding-top: 1rem;
+}
+
+.auth-container{
+  display: flex;
+  padding-left: 34rem;
+  padding-top: 1rem;
+}
+
+.Subtext{
+padding-left:37rem;
+
+font-family: 'Poppins','Sans-Serif';
+font-size: 18px;
+font-weight: 300;
+}
+
+.toggle-buttons{
+padding-left: 37rem;
+padding-top: 1rem;
+  width:30rem;
+  height: 2rem;
+ 
+}
+.login{
+  display: flex;
+  width: 40%;
+  height: 68px;
+  border-radius: 30%;
+}
+
+.Login-title{
+  display: flex;
+padding-left: 4rem;
+font-family: 'Poppins', 'Sans-serif';
+}
+
+.login-email{
+  padding-top: 5rem;
+}
